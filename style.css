@@ -1,0 +1,10 @@
+body { margin: 0; background: #0d0d10; color: #ececf1; font: 16px/1.6 system-ui, "Segoe UI", sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 48px 24px 80px; }
+.logo { width: 96px; border-radius: 22px; }
+h1 { font-size: 34px; margin: 16px 0 8px; } h1 b { color: #e0263c; }
+h2 { font-size: 19px; margin-top: 32px; color: #fff; }
+.lead { font-size: 18px; color: #c8c8d2; }
+.stand { color: #9090a0; font-size: 14px; }
+a { color: #ff5a6e; }
+nav { margin-top: 40px; padding-top: 20px; border-top: 1px solid #2a2a33; }
+code { background: #1c1c22; padding: 1px 6px; border-radius: 6px; }
